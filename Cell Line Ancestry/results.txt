@@ -1,0 +1,9 @@
+Matches for Cell Line '1':
+	Direct Match: cell line '1'
+
+Matches for Cell Line '2':
+	Direct Match: cell line '2'
+
+Matches for Cell Line '3':
+	No matches found.
+
